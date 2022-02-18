@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "playwright test",
-    "test:github": "playwright test tests/github",
-    "test:github-api": "playwright test tests/github-api"
+    "test:github": "playwright test tests/github/",
+    "test:github-api": "playwright test tests/github-api/"
   },
   "keywords": [],
   "author": "",
